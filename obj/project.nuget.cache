@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s7uNds7rJJ4L0EimBtdPXIQCcjElmeVhPPUJUf/YAfVeApvsy2ia8WnyCFh0EBQzJ3tpPpcOe4lK9dlsO0k4pg==",
+  "success": true,
+  "projectFilePath": "G:\\dilara\\Kod ve Projeler\\VSProjeler\\1. sınıf 2. dönem ders projeleri\\örnek-OBS-sistemi\\örnek-OBS-sistemi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serra\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Serra\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Serra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Serra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

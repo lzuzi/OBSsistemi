@@ -1,0 +1,28 @@
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.exe
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.deps.json
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.runtimeconfig.json
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.runtimeconfig.dev.json
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.dll
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.pdb
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.csproj.AssemblyReference.cache
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.AssemblyInfoInputs.cache
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.AssemblyInfo.cs
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.dll
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.pdb
+C:\Users\Serra\Desktop\projeler\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.genruntimeconfig.cache
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.exe
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.deps.json
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.runtimeconfig.json
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.runtimeconfig.dev.json
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.dll
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\bin\Debug\netcoreapp3.1\örnek-OBS-sistemi.pdb
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.csproj.AssemblyReference.cache
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.GeneratedMSBuildEditorConfig.editorconfig
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.AssemblyInfoInputs.cache
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.AssemblyInfo.cs
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.csproj.CoreCompileInputs.cache
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.dll
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.pdb
+G:\dilara\Kod ve Projeler\VSProjeler\1. sınıf 2. dönem ders projeleri\örnek-OBS-sistemi\obj\Debug\netcoreapp3.1\örnek-OBS-sistemi.genruntimeconfig.cache
